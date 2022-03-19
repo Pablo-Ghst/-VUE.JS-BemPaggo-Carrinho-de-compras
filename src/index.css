@@ -1,0 +1,106 @@
+body {
+  font-family:monospace;
+  background-color: #441063;
+  font-size: 20px;
+  font-weight: bold;
+  
+}
+
+h1 {
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  text-shadow: #000000;
+ 
+  text-align: center;
+  font-size: 1.5rem;
+  margin-left: 170%;
+}
+h2 {
+  color: #ffffff;
+  text-shadow: #000000;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 1.7rem;
+  margin-left: 170%;
+}
+h3 {
+  font-weight: bolder;
+  color: #000000;
+  font-size: 1.5rem;
+  margin-right: 10%;
+}
+a {
+  text-decoration: none;
+  
+}
+.row {
+  
+  display: flex;
+  justify-content: space-between;
+}
+.row.center {
+  margin-right: 34.5%;
+  background-image:url('https://cdn.cbeditz.com/cbeditz/preview/purple-toon-app-cartoon-background-11624200022axyz8j05rr.jpg');
+  background-color: #441063;
+  
+  align-items: center;
+}
+.row.center::before{
+
+opacity: 0.3%;
+}
+.col-1 {
+  flex: 1;
+}
+.col-2 {
+  flex: 2;
+}
+.block {
+  background-color: #ffffff;
+  padding: 1rem;
+  margin: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.text-right {
+  text-align: right;
+}
+img.small {
+  max-height: 8rem;
+}
+button {
+  font-size: 1rem;
+  padding: 0.2rem;
+  margin: 0.1rem;
+  border-radius: 0.5rem;
+  border: 0.1rem #404040 solid;
+  background-color: #d8d8d8;
+  width: 100%;
+  cursor: pointer;
+}
+button.add {
+  background-color: #5b5e5b;
+  width: 3rem;
+}
+button.remove {
+  background-color: #646464;
+  width: 3rem;
+}
+button.badge {
+  background-color: #4e4e4e;
+  border: none;
+  color: #ffffff;
+  width: 3rem;
+}
+#logo{
+  width: 20rem;
+  margin-left: 150%;
+
+}
+#borda{
+  width: 20rem;
+  margin-left: 150%;
+
+}
