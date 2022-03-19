@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Desafio-Bem-Paggo/static/css/main.99a1d571.css",
+    "main.js": "/Desafio-Bem-Paggo/static/js/main.0832cea4.js",
+    "static/js/787.313e2166.chunk.js": "/Desafio-Bem-Paggo/static/js/787.313e2166.chunk.js",
+    "index.html": "/Desafio-Bem-Paggo/index.html",
+    "main.99a1d571.css.map": "/Desafio-Bem-Paggo/static/css/main.99a1d571.css.map",
+    "main.0832cea4.js.map": "/Desafio-Bem-Paggo/static/js/main.0832cea4.js.map",
+    "787.313e2166.chunk.js.map": "/Desafio-Bem-Paggo/static/js/787.313e2166.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99a1d571.css",
+    "static/js/main.0832cea4.js"
+  ]
+}
